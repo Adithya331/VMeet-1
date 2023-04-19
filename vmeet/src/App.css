@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -36,3 +36,37 @@
     transform: rotate(360deg);
   }
 }
+*/
+
+@media only screen and (max-width: 770px){
+
+  #boxcontain{
+  
+  position: relative;
+  
+   top: 25%;
+  
+   border-radius: 10%;
+  
+   margin: 11%;
+  
+   padding: 2em;
+  
+    
+  }
+  
+  body{
+  
+  background-image: url('https://firebasestorage.googleapis.com/v0/b/vmeet-ae2d5.appspot.com/o/MicrosoftTeams-image.png?alt=media&token=8da4aefe-5aa8-4d6f-9348-94a07884e634');
+  
+  }
+  
+  }
+  
+  
+  
+  
+  @media only screen and (max-width: 360px){
+  
+  
+  }
